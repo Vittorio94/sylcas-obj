@@ -1,0 +1,24 @@
+{
+  "name": "sylcas-obj",
+  "version": "1.0.0",
+  "description": "Server side nodejs CAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vittorio94/sylcas-obj.git"
+  },
+  "author": "Vittorio Lora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vittorio94/sylcas-obj/issues"
+  },
+  "homepage": "https://github.com/Vittorio94/sylcas-obj#readme",
+  "devDependencies": {
+    "docdash": "^1.2.0",
+    "eslint": "^8.24.0",
+    "jsdoc": "^3.6.11"
+  }
+}
